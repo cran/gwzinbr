@@ -1,0 +1,10 @@
+f2a00c907d9b001997aef82bbd6bd5eb *DESCRIPTION
+8060ef081f233c3a53e98addfffe9252 *NAMESPACE
+51c8c768a02450c94c98d43c19172bf6 *NEWS.md
+e433de6effe4f9aaf899ffe0420dda6b *R/Golden.R
+baff3deb98b0f0090dcd14f8ee460a07 *R/gwzinbr.R
+24faa9799b15d257cf59be58311ad80f *R/southkorea_covid19.R
+3175fa42572482c82b0e35d1730eb3ce *data/southkorea_covid19.RData
+86d3bd7f4f9866c5904063673c153cd6 *man/Golden.Rd
+4a90be185c465f79574937feb2339d68 *man/gwzinbr.Rd
+c8166d73d674002664afa12a880b357d *man/southkorea_covid19.Rd
